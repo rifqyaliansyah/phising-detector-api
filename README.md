@@ -272,15 +272,6 @@ const WHITELIST_DOMAINS = [
    - Zero-day phishing campaigns
    - Compromised legitimate domains
 
-## 🐛 Troubleshooting
-
-### WHOIS Check Failed
-```bash
-# Install whois (Linux/Mac)
-sudo apt-get install whois  # Ubuntu/Debian
-brew install whois          # macOS
-```
-
 ### Port Already in Use
 ```bash
 # Change PORT in .env
