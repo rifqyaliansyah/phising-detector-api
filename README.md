@@ -1,4 +1,4 @@
-# 🛡️ Phishing Detector API
+# 🛡️ Phishing Detector API (Beta Version)
 
 Express.js API untuk mendeteksi website phishing dengan pendekatan multi-layer analysis.
 
